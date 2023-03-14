@@ -1,6 +1,6 @@
 <h3 align="center">
-Auto Script Install All VPN Service Mod By Rizyuk Store vpn
-<img src="https://img.shields.io/badge/Version-Latest-blue.svg"></h3>
+Auto Script Install All VPN Service Mod By RIZYUL STORE VPN
+<img src="https://img.shields.io/badge/Version-1.1-blue.svg"></h3>
 
 <h3 align="center">
 GRUP TELEGRAM</h3>
