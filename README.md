@@ -5,12 +5,12 @@ Auto Script Install All VPN Service Mod By Rizyuk Store vpn
 <h3 align="center">
 GRUP TELEGRAM</h3>
 
-https://t.me/Rizyulstore04
+        https://t.me/Rizyulstore04
 
 <h3 align="center">
 ORDER PREMIUM AKUN DAN VPS</h3>
 
-https://t.me/Rizyulstore
+        https://t.me/Rizyulstore
 
 
 ## INSTALLATION
